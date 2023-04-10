@@ -1,0 +1,6 @@
+springdoc:
+  pathsToMatch: /**,
+  swagger-ui:
+    tagsSorter: alpha
+    disable-swagger-default-url: true
+    path: /swagger
